@@ -25,8 +25,8 @@
 
 ### Calidad y tests
 - [ ] Agregué o actualicé tests para los cambios introducidos
-- [ ] `npm run test:coverage` pasa con cobertura mínima esperada (≥ 80%) si aplica
-- [ ] `npm run test:bdd` pasa si el cambio afecta comportamiento E2E / Gherkin
+- [ ] `dotnet test ./eShopOnWeb.sln --configuration Release` pasa
+- [ ] Si aplica, corrí tests con cobertura y verifiqué el umbral esperado
 - [ ] Cubrí happy path y al menos un caso de error o borde relevante
 
 ### Seguridad
