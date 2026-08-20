@@ -35,7 +35,7 @@
 - [ ] Revisé dependencias o configuración nueva por riesgos de seguridad si aplica
 
 ### Documentación y mantenimiento
-- [ ] Actualicé documentación, feature files o steps cuando el comportamiento cambió
+- [ ] Actualicé documentación relevante cuando el comportamiento cambió
 - [ ] El PR está acotado, con contexto suficiente para revisión
 
 ## Notas para la persona revisora
